@@ -2,7 +2,7 @@
 
 #### I'm a Cloud Architect
 
-> GCP, AWS, Azure
+> GCP, AWS, Azure 
 > Highly-available and secure
 
 
