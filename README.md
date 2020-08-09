@@ -17,6 +17,13 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-Fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" /> 
 </a>
 
+#### I'm a DevOps Engineer
+> Git, Ansible, Rundeck, Artifactory, Jenkins and Kubernetes
+
+<a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
+</a>
+
 #### I'm a HashiCorp fanboy
 > Cloud-agnostic solutions made possible by Terraform, Vault, Consul and Nomad
 
@@ -28,13 +35,6 @@
 </a>
 <a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA.png" alt="HashiCorp Certified: Consul Associate" /> 
-</a>
-
-#### I'm a DevOps Engineer
-> Git, Ansible, Rundeck, Artifactory, Jenkins and Kubernetes
-
-<a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
 </a>
 
 #### There's always more to learn
