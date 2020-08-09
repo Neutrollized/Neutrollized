@@ -4,6 +4,11 @@
 > GCP, AWS, Azure  
 > Highly-available and secure designs
 
+<a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f?key#gs.cdhv2x">
+<img class="icon-image" height="100" src="./images/badge_GCP-PCA.png" alt="GCP Professional Cloud Architect" />    
+</a>
+![alt text](./images/badge_GCP-PCA.png "Google Certified Professional Cloud Architect")
+
 #### I'm a HashiCorp fanboy
 > Cloud-agnostic solutions made possible by Terraform, Vault, Consul and Nomad
 
