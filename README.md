@@ -5,7 +5,10 @@
 > Highly-available and secure designs
 
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f?key#gs.cdhv2x">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Ggoogle Cloud Certified: Professional Cloud Architect" />    
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
+</a>
+<a href="https://www.credential.net/e4f61cf4-0ad0-42d3-a97b-6aaffe34eb9a#gs.cdg0p7">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-ACE.png" alt="Google Cloud Certified: Associate Cloud Engineer" />    
 </a>
 <a href="https://www.youracclaim.com/badges/d03d2a5a-c56e-46ed-8215-8e57d8f40b90">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_AWS-SAA.png" alt="AWS Certified Solutions Architect - Associate" />    
