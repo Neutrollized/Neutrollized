@@ -11,27 +11,27 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_AWS-SAA.png" alt="AWS Certified Solutions Architect - Associate" />    
 </a>
 <a href="https://www.youracclaim.com/badges/1a4f4c9a-326e-40e0-b0eb-6acdeda9a1c1">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_Azure-Fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-Fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" /> 
 </a>
 
 #### I'm a HashiCorp fanboy
 > Cloud-agnostic solutions made possible by Terraform, Vault, Consul and Nomad
 
 <a href="https://www.youracclaim.com/badges/eaf8b566-edae-44d4-8668-f13c1dc9c7b2">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_HashiCorp-TerraformA.png" alt="HashiCorp Certified: Terraform Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA.png" alt="HashiCorp Certified: Terraform Associate" /> 
 </a>
 <a href="https://www.youracclaim.com/badges/07988f40-3669-4c54-bd67-efdc6a4e4915">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_HashiCorp-VaultA.png" alt="HashiCorp Certified: Vault Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA.png" alt="HashiCorp Certified: Vault Associate" /> 
 </a>
 <a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_HashiCorp-ConsulA.png" alt="HashiCorp Certified: Consul Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA.png" alt="HashiCorp Certified: Consul Associate" /> 
 </a>
 
 #### I'm a DevOps Engineer
 > Git, Ansible, Rundeck, Artifactory, Jenkins and Kubernetes
 
 <a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
 </a>
 
 #### There's always more to learn
