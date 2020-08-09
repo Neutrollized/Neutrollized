@@ -8,7 +8,7 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_GCP-PCA.png" alt="GCP Professional Cloud Architect" />    
 </a>
 <a href="https://www.youracclaim.com/badges/d03d2a5a-c56e-46ed-8215-8e57d8f40b90">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_AWS-SAA.png" alt="AWS Solutions Architect - Associate" />    
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_AWS-SAA.png" alt="AWS Solutions Architect - Associate" />    
 </a>
 <a href="https://www.youracclaim.com/badges/1a4f4c9a-326e-40e0-b0eb-6acdeda9a1c1">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/images/badge_AWS-SAA.png" alt="Azure Fundamentals" />    
