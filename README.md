@@ -15,15 +15,11 @@
 </a>
 
 #### I'm a DevOps Engineer
-> Git, Ansible, Rundeck, Artifactory, Jenkins and Kubernetes
+> Git, Ansible, Rundeck, Artifactory, Jenkins, Terraform, Vault, Consul, Nomad and Kubernetes
 
 <a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
 </a>
-
-#### I'm a HashiCorp fanboy
-> Cloud-agnostic solutions made possible by Terraform, Vault, Consul and Nomad
-
 <a href="https://www.youracclaim.com/badges/eaf8b566-edae-44d4-8668-f13c1dc9c7b2">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA.png" alt="HashiCorp Certified: Terraform Associate" /> 
 </a>
