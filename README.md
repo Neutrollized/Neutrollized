@@ -37,7 +37,7 @@
 - [LinkedIn](https://www.linkedin.com/in/glenyu/)
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 - [AMD/Ample Organics case study](https://www.amd.com/en/case-studies/ample-organics)
-- [Branching Out with Workflow Orchestration - byline article](https://thenewstack.io/branching-out-with-workflow-orchestration/)
+- [Branching Out with Workflow Orchestration](https://thenewstack.io/branching-out-with-workflow-orchestration/)
 
 
 <!--
