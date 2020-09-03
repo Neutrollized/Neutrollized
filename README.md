@@ -40,6 +40,7 @@
 - [AWS re:Invent 2019: Turbocharge your data center infrastructure with AMD (CMP343-S)](https://www.youtube.com/watch?v=BMKs_upjL6k&list=FLUmWT7hUJxmE5ybdrDby2ag&t=2988s)
 - [AMD/Ample Organics case study](https://www.amd.com/en/case-studies/ample-organics)
 - [How HashiCorp Nomad Helps Relax Cannabis Compliance and Kubernetes Complexity](https://thenewstack.io/branching-out-with-workflow-orchestration/)
+- [Ample Organics Uses HashiCorp Suite to Cultivate IT Systems for Emerging Cannabis Industry](https://www.hashicorp.com/blog/ample-organics-uses-hashicorp-suite-to-cultivate-it-systems-for-emerging-cannabis/)
 
 
 <!--
