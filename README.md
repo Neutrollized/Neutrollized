@@ -34,7 +34,7 @@
 </a>
 
 #### There's always more to learn
-> Working on my Python skills, serverless and tinkering with my Raspberry Pi
+> Working on my Python skills, ML, serverless, and tinkering with my Raspberry Pi
 
 ### Me on the web 
 - [LinkedIn](https://www.linkedin.com/in/glenyu/)
