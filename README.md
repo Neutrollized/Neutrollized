@@ -34,7 +34,7 @@
 </a>
 
 #### I'm a Machine Learning enthusiast 
-> Pandas, Keras, TensorFlow
+> Pandas, TensorFlow, Keras
 
 #### There's always more to learn
 > Leveling up my Python skills, ML, serverless, and tinkering with my Raspberry Pi
