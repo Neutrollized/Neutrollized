@@ -33,6 +33,8 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-ACE.png" alt="Google Cloud Certified: Associate Cloud Engineer" />    
 </a>
 
+#### I'm a Machine Learning enthusiast 
+
 #### There's always more to learn
 > Leveling up my Python skills, ML, serverless, and tinkering with my Raspberry Pi
 
