@@ -2,7 +2,7 @@
 
 #### I'm a Cloud Architect
 > GCP, AWS
-> Highly-available and secure designs
+
 > Highly-available and secure designs
 
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f?key#gs.cdhv2x">
