@@ -1,7 +1,7 @@
 ## Yo! I'm Glen and I do :cloud: engineery things
 
 #### I'm a Cloud Architect
-> Highly-available and secure designs
+> Highly-available, scalable and secure designs
 
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f?key#gs.cdhv2x">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
