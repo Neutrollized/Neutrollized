@@ -44,6 +44,7 @@
 - [How HashiCorp Nomad Helps Relax Cannabis Compliance and Kubernetes Complexity](https://thenewstack.io/branching-out-with-workflow-orchestration/)
 - [Ample Organics Uses HashiCorp Suite to Cultivate IT Systems for Emerging Cannabis Industry](https://www.hashicorp.com/blog/ample-organics-uses-hashicorp-suite-to-cultivate-it-systems-for-emerging-cannabis/)
 - [Ample Organics Reduces Toil with Self-Service Operations](https://www.rundeck.com/ample-organics-reduces-toil-with-self-service-operations)
+- [Nomad Virtual Day 2021](https://www.youtube.com/watch?v=JJsdGrQNXf8&ab_channel=HashiCorp)
 
 
 <!--
