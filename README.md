@@ -9,6 +9,10 @@
 <a href="https://www.youracclaim.com/badges/d03d2a5a-c56e-46ed-8215-8e57d8f40b90">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_AWS-SAA.png" alt="AWS Certified Solutions Architect - Associate" />    
 </a>
+</a>
+<a href="https://www.credly.com/badges/2fa13947-4171-4f32-94f1-011776cdf29b">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-Administrator.png" alt="Microsoft Azure Administrator Associate" />    
+</a>
 
 #### I'm a DevOps Engineer
 > Git, Ansible, Rundeck, Artifactory, Jenkins, Terraform, Vault, Consul, Nomad and Kubernetes
