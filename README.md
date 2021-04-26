@@ -36,6 +36,10 @@
 #### I'm a Machine Learning enthusiast 
 > Pandas, TensorFlow, Keras
 
+<a href="https://www.credly.com/badges/192261bc-6dad-4529-ab50-63ea0ae2155c">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-AI-Fundamentals.png" alt="Microsoft Azure AI Fundamentals" />    
+</a>
+
 #### There's always more to learn
 > Leveling up my Python skills, ML, serverless, and tinkering with my Raspberry Pi
 
