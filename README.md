@@ -9,6 +9,9 @@
 <a href="https://www.credential.net/124c624d-f176-4bc8-a418-b610a236c309">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCNE.png" alt="Google Cloud Certified: Professional Cloud Network Engineer" />    
 </a>
+<a href="https://www.credential.net/06b90054-e8d5-47b3-b911-a4f3bfa8e610">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCSE.png" alt="Google Cloud Certified: Professional Cloud Security Engineer" />    
+</a>
 <a href="https://www.youracclaim.com/badges/d03d2a5a-c56e-46ed-8215-8e57d8f40b90">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_AWS-SAA.png" alt="AWS Certified Solutions Architect - Associate" />    
 </a>
