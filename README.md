@@ -3,6 +3,9 @@
 #### I'm a Cloud Architect
 > Highly-available, scalable and secure designs
 
+<a href="https://www.credential.net/d8332f9c-6ac8-4d17-bbde-d260cfcea847">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-CDL.png" alt="Google Cloud Certified: Cloud Digital Leader" />    
+</a>
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
 </a>
