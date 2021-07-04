@@ -28,6 +28,9 @@
 #### I'm a DevOps Engineer
 > Git, Ansible, Rundeck, Artifactory, Jenkins, Terraform, Vault, Consul, Nomad and Kubernetes
 
+<a href="https://www.credential.net/46e62ebb-368b-4102-a394-153db000dee3">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCD.png" alt="Google Cloud Certified: Professional Cloud Developer" />    
+</a>
 <a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
 </a>
