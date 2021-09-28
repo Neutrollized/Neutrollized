@@ -71,6 +71,7 @@
 - [Ample Organics Uses HashiCorp Suite to Cultivate IT Systems for Emerging Cannabis Industry](https://www.hashicorp.com/blog/ample-organics-uses-hashicorp-suite-to-cultivate-it-systems-for-emerging-cannabis/)
 - [Ample Organics Reduces Toil with Self-Service Operations](https://www.rundeck.com/ample-organics-reduces-toil-with-self-service-operations)
 - [Nomad Virtual Day (2021)](https://www.youtube.com/watch?v=JJsdGrQNXf8&ab_channel=HashiCorp)
+- [Glen's Playlist for Google Next '21 on Google Community Blog](https://www.googlecloudcommunity.com/gc/Community-Blogs/Glen-s-Playlist-for-Google-Next-21/ba-p/171168)
 
 
 <!--
