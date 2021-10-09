@@ -63,7 +63,7 @@
 > Leveling up my Python skills, ML, serverless, and tinkering with my Raspberry Pi
 
 ### Me on the web 
-- [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Medium](https://medium.com/@glen.yu) | [Kaggle](https://www.kaggle.com/neutrollized) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
+- [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Medium](https://medium.com/@glen.yu) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 - [AWS re:Invent 2019: Turbocharge your data center infrastructure with AMD (CMP343-S)](https://www.youtube.com/watch?v=BMKs_upjL6k&list=FLUmWT7hUJxmE5ybdrDby2ag&t=2988s)
 - [AMD - Ample Organics case study](https://www.amd.com/en/case-studies/ample-organics)
