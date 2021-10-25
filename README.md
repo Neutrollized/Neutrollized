@@ -61,6 +61,7 @@
 
 #### There's always more to learn
 > Leveling up my Python skills, ML, serverless, and tinkering with my Raspberry Pi
+> Contribute to open source projects
 
 ### Me on the web 
 - [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Medium](https://medium.com/@glen.yu) | [Google Developers](https://developers.google.com/profile/u/105600008358434730775?hl=en) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
