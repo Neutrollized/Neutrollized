@@ -55,6 +55,9 @@
 #### I'm a Machine Learning enthusiast 
 > Pandas, TensorFlow, Keras
 
+<a href="https://www.credential.net/a6af20ce-8ef3-46b3-b38a-62ac85a2fd9a">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PDE.png" alt="Google Cloud Certified: Professional Data Engineer" />    
+</a>
 <a href="https://www.credly.com/badges/192261bc-6dad-4529-ab50-63ea0ae2155c">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-AI-Fundamentals.png" alt="Microsoft Azure AI Fundamentals" />    
 </a>
