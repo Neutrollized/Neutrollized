@@ -37,6 +37,9 @@
 <a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
 </a>
+<a href="https://www.credly.com/badges/ee1c3dd5-7702-4b1f-8fd9-9b11e06441e3">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Istio-Foundation.png" alt="Foundation for Istio" /> 
+</a>
 <a href="https://www.youracclaim.com/badges/eaf8b566-edae-44d4-8668-f13c1dc9c7b2">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA.png" alt="HashiCorp Certified: Terraform Associate" /> 
 </a>
