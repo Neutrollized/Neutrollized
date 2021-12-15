@@ -81,11 +81,10 @@
 - [Nomad Virtual Day (2021)](https://www.youtube.com/watch?v=JJsdGrQNXf8&ab_channel=HashiCorp)
 <!--
 - [Glen's Playlist for Google Next '21 on Google Community Blog](https://www.googlecloudcommunity.com/gc/Community-Blogs/Glen-s-Playlist-for-Google-Next-21/ba-p/171168)
-
+-->
 
 <!--
 **Neutrollized/Neutrollized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
 
