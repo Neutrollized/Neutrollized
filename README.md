@@ -20,10 +20,6 @@
 <a href="https://www.youracclaim.com/badges/d03d2a5a-c56e-46ed-8215-8e57d8f40b90">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_AWS-SAA.png" alt="AWS Certified Solutions Architect - Associate" />    
 </a>
-</a>
-<a href="https://www.credly.com/badges/d296e619-9dd0-450a-b848-453214348658">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-Administrator.png" alt="Microsoft Azure Administrator Associate" />    
-</a>
 
 #### I'm a DevOps Engineer
 > Git, Ansible, Rundeck, Artifactory, Jenkins, Terraform, Vault, Consul, Nomad and Kubernetes
@@ -34,6 +30,10 @@
 <a href="https://www.credential.net/46e62ebb-368b-4102-a394-153db000dee3">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCD.png" alt="Google Cloud Certified: Professional Cloud Developer" />    
 </a>
+<a href="https://www.credly.com/badges/d296e619-9dd0-450a-b848-453214348658">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-Administrator.png" alt="Microsoft Azure Administrator Associate" />    
+</a>
+<br></br>
 <a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
 </a>
