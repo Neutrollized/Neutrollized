@@ -41,13 +41,13 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Istio-Foundation.png" alt="Foundation for Istio" /> 
 </a>
 <a href="https://www.youracclaim.com/badges/eaf8b566-edae-44d4-8668-f13c1dc9c7b2">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA.png" alt="HashiCorp Certified: Terraform Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA_v2.png" alt="HashiCorp Certified: Terraform Associate" /> 
 </a>
 <a href="https://www.youracclaim.com/badges/07988f40-3669-4c54-bd67-efdc6a4e4915">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA.png" alt="HashiCorp Certified: Vault Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA_v2.png" alt="HashiCorp Certified: Vault Associate" /> 
 </a>
 <a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA.png" alt="HashiCorp Certified: Consul Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
 </a>
 <!--
 <a href="https://www.credential.net/e4f61cf4-0ad0-42d3-a97b-6aaffe34eb9a#gs.fr32x1">
