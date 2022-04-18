@@ -1,6 +1,6 @@
-## Yo! I'm Glen and I do :cloud: engineery things
+# Yo! I'm Glen and I do :cloud: engineery things
 
-#### I'm a big fan of GCP
+### I'm a big fan of GCP
 
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
@@ -22,7 +22,6 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-ACE.png" alt="Google Cloud Certified: Associate Cloud Engineer" />    
 </a>
 -->
-
 <br></br>
 > But I'm not a one-trick pony
 
@@ -33,7 +32,7 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-Administrator.png" alt="Microsoft Azure Administrator Associate" />    
 </a>
 
-#### I like Infrastructure as Code and HashiCorp suite of tools
+### I like Infrastructure as Code and HashiCorp suite of tools
 
 <a href="https://www.credly.com/badges/543bd386-12d7-4eb2-aa84-c3c8e739e3dd/public_url">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2022.png" alt="HashiCorp Ambassador 2022" /> 
@@ -53,7 +52,6 @@
 <a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
 </a>
-
 <br></br>
 > And I'm also well-versed in Kubernetes
 
