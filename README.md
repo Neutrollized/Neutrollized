@@ -62,7 +62,7 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Istio-Foundation.png" alt="Foundation for Istio" /> 
 </a>
 
-#### But what I'm **really** passionate about is ML/AI
+### But what I'm **really** passionate about is ML/AI
 
 <a href="https://www.credential.net/a6af20ce-8ef3-46b3-b38a-62ac85a2fd9a">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PDE.png" alt="Google Cloud Certified: Professional Data Engineer" />    
