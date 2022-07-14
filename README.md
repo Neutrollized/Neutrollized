@@ -17,6 +17,9 @@
 <a href="https://www.credential.net/46e62ebb-368b-4102-a394-153db000dee3">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCD.png" alt="Google Cloud Certified: Professional Cloud Developer" />    
 </a>
+<a href="https://www.credential.net/87f87ba2-9e1c-4a21-a059-db2af65f0bc2">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCDBE.png" alt="Google Cloud Certified: Professional Cloud Database Engineer" />    
+</a>
 <!--
 <a href="https://www.credential.net/e4f61cf4-0ad0-42d3-a97b-6aaffe34eb9a#gs.fr32x1">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-ACE.png" alt="Google Cloud Certified: Associate Cloud Engineer" />    
