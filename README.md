@@ -56,7 +56,7 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
 </a>
 
-> And I'm also well-versed in Kubernetes
+> And I'm also well-versed in Kubernetes & CI/CD
 
 <a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
@@ -83,6 +83,7 @@
 
 ### Me on the web 
 - [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Medium](https://medium.com/@glen.yu) | [Google Developers](https://g.dev/glenyu) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
+- [FindingWaldo.app](https://findingwaldo.app) - my Where's Waldo object detector
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 - [AWS re:Invent 2019: Turbocharge your data center infrastructure with AMD (CMP343-S)](https://www.youtube.com/watch?v=BMKs_upjL6k&list=FLUmWT7hUJxmE5ybdrDby2ag&t=2988s)
 - [AMD - Ample Organics case study](https://www.amd.com/en/case-studies/ample-organics)
