@@ -78,7 +78,7 @@
 
 
 ## Me on the web 
-- [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-glen-yu) | [Champion Innovator](https://cloud.google.com/innovators/champions?specialization=modern_architecture&text=glen) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
+- [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-glen-yu) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
 - [Articles](./articles.md) | [Presentations/Talks](./presentations.md)
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 - [FindingWaldo.app](https://findingwaldo.app) - my "Where's Waldo?" object detector
