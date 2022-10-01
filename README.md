@@ -65,7 +65,7 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Istio-Foundation.png" alt="Foundation for Istio" /> 
 </a>
 
-### But what I'm **really** passionate about is ML/AI
+### What I'm really passionate about is ML/AI
 
 <a href="https://www.credential.net/a6af20ce-8ef3-46b3-b38a-62ac85a2fd9a">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PDE.png" alt="Google Cloud Certified: Professional Data Engineer" />    
@@ -74,28 +74,14 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-AI-Fundamentals.png" alt="Microsoft Azure AI Fundamentals" />    
 </a>
 
-<!--
-#### There's always more to learn
-> Leveling up my Python skills, ML, serverless, and tinkering with my Raspberry Pi
+> But most importantly: I'm always learning
 
-> Contribute to open source projects
--->
 
-### Me on the web 
-- [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Medium](https://medium.com/@glen.yu) | [Champion Innovator](https://cloud.google.com/innovators/champions?specialization=modern_architecture&text=glen) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
-- [FindingWaldo.app](https://findingwaldo.app) - my "Where's Waldo?" object detector
+## Me on the web 
+- [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-glen-yu) | [Champion Innovator](https://cloud.google.com/innovators/champions?specialization=modern_architecture&text=glen) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
+- [Articles](./articles.md) | [Presentations/Talks](./presentations.md)
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
-- [AWS re:Invent 2019: Turbocharge your data center infrastructure with AMD (CMP343-S)](https://www.youtube.com/watch?v=BMKs_upjL6k&list=FLUmWT7hUJxmE5ybdrDby2ag&t=2988s)
-- [AMD - Ample Organics case study](https://www.amd.com/en/case-studies/ample-organics)
-- [How HashiCorp Nomad Helps Relax Cannabis Compliance and Kubernetes Complexity](https://thenewstack.io/branching-out-with-workflow-orchestration/)
-- [Ample Organics Uses HashiCorp Suite to Cultivate IT Systems for Emerging Cannabis Industry](https://www.hashicorp.com/blog/ample-organics-uses-hashicorp-suite-to-cultivate-it-systems-for-emerging-cannabis/)
-- [Ample Organics Reduces Toil with Self-Service Operations](https://www.rundeck.com/ample-organics-reduces-toil-with-self-service-operations)
-- [Nomad Virtual Day (2021)](https://www.youtube.com/watch?v=JJsdGrQNXf8&ab_channel=HashiCorp)
-- [How to Build Instagram from Scratch - System Design Series](https://www.youtube.com/watch?v=gyV0YqM0Uxo&ab_channel=ThinkOutsideTheValley)
-- [eBPF, Cilium and GKE Dataplane V2](https://www.youtube.com/watch?v=W2NF8T_lVSQ&ab_channel=GoogleDeveloperCommunitiesNorthAmerica)
-<!--
-- [Glen's Playlist for Google Next '21 on Google Community Blog](https://www.googlecloudcommunity.com/gc/Community-Blogs/Glen-s-Playlist-for-Google-Next-21/ba-p/171168)
--->
+- [FindingWaldo.app](https://findingwaldo.app) - my "Where's Waldo?" object detector
 
 <!--
 **Neutrollized/Neutrollized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
