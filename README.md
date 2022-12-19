@@ -58,6 +58,9 @@
 
 > And I'm also well-versed in Kubernetes & CI/CD
 
+<a href="https://www.credly.com/badges/42b5f272-ef81-49bf-9b1f-858d1b5109a1">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKS.png" alt="CKS: Certified Kubernetes Security Specialist" /> 
+</a>
 <a href="https://www.youracclaim.com/badges/38302147-9e2f-4c85-b014-283bf47df995">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKA.png" alt="CKA: Certified Kubernetes Administrator" /> 
 </a>

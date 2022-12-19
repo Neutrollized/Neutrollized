@@ -5,6 +5,8 @@
 - [eBPF, Cilium and GKE Dataplane V2](https://www.youtube.com/watch?v=W2NF8T_lVSQ&ab_channel=GoogleDeveloperCommunitiesNorthAmerica)
 - [CNCF Toronto Meetup 2022: Solving Kubernetes Networking Problems using eBPF & Cilium](https://community.cncf.io/events/details/cncf-toronto-presents-meetup-cncf-updates-fixing-networks-w-cilium-ebpf-stackrox-container-sec/)
 - [HashiConf Global 2022: Hallway Track - Serverless Vault for Dev](https://www.datocms-assets.com/19447/1663340814-hcg_22_hallwaytrack_schedule_v2.pdf)
+- [Windsor-Essex DevFest 2022](https://gdg.community.dev/events/details/google-gdg-windsor-presents-windsor-essex-devfest/)
+- [Google for Startups (Women Founders) - Google Cloud Platforms 201: Intro to Databases](https://rsvp.withgoogle.com/events/google-cloud-platforms-201-for-women-founders)
 
 ### 2021
 - [Nomad Virtual Day (2021)](https://www.youtube.com/watch?v=JJsdGrQNXf8&ab_channel=HashiCorp)
