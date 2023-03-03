@@ -37,6 +37,9 @@
 
 ### I like Infrastructure as Code and HashiCorp suite of tools
 
+<a href="https://www.credly.com/badges/7dedcf1a-94b4-4300-b042-d2c5200fa811/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2023.png" alt="HashiCorp Ambassador 2023" /> 
+</a>
 <a href="https://www.credly.com/badges/543bd386-12d7-4eb2-aa84-c3c8e739e3dd/public_url">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2022.png" alt="HashiCorp Ambassador 2022" /> 
 </a>
