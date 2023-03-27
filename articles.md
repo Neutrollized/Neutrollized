@@ -2,6 +2,9 @@
 
 - [Medium](https://medium.com/@glen.yu)
 
+### 2023
+- [Workload Identity for GKE made easy with open source tools](https://cloud.google.com/blog/products/containers-kubernetes/open-source-tools-can-help-gke-work-with-cloud-apis)
+
 ### 2022
 - [Lessons learned in creating (and running) object detection ML models in the cloud](https://www.linkedin.com/pulse/lessons-learned-creating-running-object-detection-ml-models-glen-yu/?trackingId=4cB9MtW%2FSBqxEL0ePD9VjA%3D%3D)
 
