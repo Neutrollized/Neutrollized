@@ -52,8 +52,8 @@
 <a href="https://www.youracclaim.com/badges/07988f40-3669-4c54-bd67-efdc6a4e4915">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA_v2.png" alt="HashiCorp Certified: Vault Associate" /> 
 </a>
-<a href="https://www.youracclaim.com/badges/eaf8b566-edae-44d4-8668-f13c1dc9c7b2">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA_v2.png" alt="HashiCorp Certified: Terraform Associate" /> 
+<a href="https://www.credly.com/badges/d4159e0d-3f4f-4c88-96d9-8ea9a1466ede/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA003.png" alt="HashiCorp Certified: Terraform Associate" /> 
 </a>
 <a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
@@ -84,7 +84,7 @@
 
 
 ## Me on the web 
-- [LinkedIn](https://www.linkedin.com/in/glenyu/) | [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-glen-yu) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
+- [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-glen-yu) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
 - [Articles](./articles.md) | [Presentations/Talks](./presentations.md)
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 - [FindingWaldo.app](https://findingwaldo.app) - my "Where's Waldo?" object detector
