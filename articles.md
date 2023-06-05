@@ -3,6 +3,7 @@
 - [Medium](https://medium.com/@glen.yu)
 
 ### 2023
+- [The Best Kept Secrets of HashiCorp Vault](https://www.amazon.com/dp/B0C47RLRFW?ref_=cm_sw_r_cp_ud_dp_Q393WANM0NR4GSCRB76A) - contributed to a couple of chapters in this collection of tips & tricks
 - [Workload Identity for GKE made easy with open source tools](https://cloud.google.com/blog/products/containers-kubernetes/open-source-tools-can-help-gke-work-with-cloud-apis)
 
 ### 2022
