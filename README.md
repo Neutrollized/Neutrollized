@@ -49,6 +49,7 @@
 <a href="https://www.credly.com/badges/f734436d-8e61-456d-8313-59ea45ea543c/public_url">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-CoreContributor-2022.png" alt="HashiCorp Core Contributor 2022" /> 
 </a>
+
 <a href="https://www.credly.com/badges/0f177d02-1558-42cf-94b3-36b46d36451f/public_url">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultPro.png" alt="HashiCorp Certified: Vault Operations Professional" /> 
 </a>
