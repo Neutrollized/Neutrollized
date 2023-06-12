@@ -1,6 +1,6 @@
 # Yo! I'm Glen and I do :cloud: engineery things
 
-### I'm a big fan of GCP
+### I'm a big fan of Google Cloud
 
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
@@ -26,6 +26,7 @@
 </a>
 -->
 
+<!--
 > But I'm not a one-trick pony
 
 <a href="https://www.youracclaim.com/badges/d03d2a5a-c56e-46ed-8215-8e57d8f40b90">
@@ -34,6 +35,7 @@
 <a href="https://www.credly.com/badges/d296e619-9dd0-450a-b848-453214348658">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-Administrator.png" alt="Microsoft Azure Administrator Associate" />    
 </a>
+-->
 
 ### I like Infrastructure as Code and HashiCorp suite of tools
 
@@ -63,7 +65,7 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
 </a>
 
-> And I'm also well-versed in Kubernetes & CI/CD
+### I know my way around the Kubernetes ecosystem
 
 <a href="https://www.credly.com/badges/42b5f272-ef81-49bf-9b1f-858d1b5109a1">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_CKS.png" alt="CKS: Certified Kubernetes Security Specialist" /> 
@@ -84,7 +86,7 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-AI-Fundamentals.png" alt="Microsoft Azure AI Fundamentals" />    
 </a>
 
-> But most importantly: I'm always learning
+#### But most importantly: **I'm** always learning
 
 
 ## Me on the web 
