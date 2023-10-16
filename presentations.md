@@ -1,5 +1,10 @@
 # Presentations/Talks
 
+### 2023
+- [Google Cloud Next '23 - Developer Keynote](https://www.youtube.com/watch?v=268jdNwH6AM&t=2160s&ab_channel=GoogleCloud)
+- [HashiConf HUG @ HQ](https://meetup.com/san-francisco-hashicorp-user-group/events/295805336)
+- [Windsor-Essex GDG DevFest 2023](https://gdg.community.dev/events/details/google-gdg-windsor-presents-windsor-essex-gdg-devfest-2023/)
+
 ### 2022
 - [How to Build Instagram from Scratch - System Design Series](https://www.youtube.com/watch?v=gyV0YqM0Uxo&ab_channel=ThinkOutsideTheValley)
 - [eBPF, Cilium and GKE Dataplane V2](https://www.youtube.com/watch?v=W2NF8T_lVSQ&ab_channel=GoogleDeveloperCommunitiesNorthAmerica)

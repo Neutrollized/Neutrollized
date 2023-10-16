@@ -5,6 +5,7 @@
 ### 2023
 - [The Best Kept Secrets of HashiCorp Vault](https://www.amazon.ca/dp/B0C44SD7HL) - contributed to a couple of chapters in this collection of tips & tricks
 - [Workload Identity for GKE made easy with open source tools](https://cloud.google.com/blog/products/containers-kubernetes/open-source-tools-can-help-gke-work-with-cloud-apis)
+- [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) - reviewer
 
 ### 2022
 - [Lessons learned in creating (and running) object detection ML models in the cloud](https://www.linkedin.com/pulse/lessons-learned-creating-running-object-detection-ml-models-glen-yu/?trackingId=4cB9MtW%2FSBqxEL0ePD9VjA%3D%3D)
