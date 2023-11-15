@@ -1,7 +1,7 @@
 # Presentations/Talks
 
 ### 2023
-- [Google Cloud Next '23 - Developer Keynote](https://www.youtube.com/watch?v=268jdNwH6AM&t=2160s&ab_channel=GoogleCloud)
+- [Google Cloud Next '23 - Developer Keynote](https://www.youtube.com/watch?v=268jdNwH6AM&t=511s&ab_channel=GoogleCloud)
 - [HashiConf HUG @ HQ](https://meetup.com/san-francisco-hashicorp-user-group/events/295805336)
 - [HashiConf Wrap up October Livestream](https://www.youtube.com/watch?v=IP2q2TZq0Ig&t=8s&ab_channel=NedintheCloud)
 - [Windsor-Essex GDG DevFest 2023](https://gdg.community.dev/events/details/google-gdg-windsor-presents-windsor-essex-gdg-devfest-2023/)
