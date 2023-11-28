@@ -52,6 +52,9 @@
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-CoreContributor-2022.png" alt="HashiCorp Core Contributor 2022" /> 
 </a>
 <br>
+<a href="https://www.credly.com/badges/84d23ead-19fb-4ef1-94a4-0274680ee5d9/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformPro_Alpha.png" alt="Alpha Tester: Terraform Authoring and Operations Professional" /> 
+</a>
 <a href="https://www.credly.com/badges/0f177d02-1558-42cf-94b3-36b46d36451f/public_url">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultPro.png" alt="HashiCorp Certified: Vault Operations Professional" /> 
 </a>
