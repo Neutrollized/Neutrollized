@@ -11,20 +11,18 @@
 <a href="https://www.credential.net/06b90054-e8d5-47b3-b911-a4f3bfa8e610">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCSE.png" alt="Google Cloud Certified: Professional Cloud Security Engineer" />    
 </a>
-<a href="https://www.credential.net/71605802-2007-4c22-acf0-c9c8203e4b9c">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCDE.png" alt="Google Cloud Certified: Professional Cloud DevOps Engineer" />    
-</a>
 <a href="https://www.credential.net/46e62ebb-368b-4102-a394-153db000dee3">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCD.png" alt="Google Cloud Certified: Professional Cloud Developer" />    
 </a>
 <a href="https://www.credential.net/87f87ba2-9e1c-4a21-a059-db2af65f0bc2">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCDBE.png" alt="Google Cloud Certified: Professional Cloud Database Engineer" />    
 </a>
-<!--
-<a href="https://www.credential.net/e4f61cf4-0ad0-42d3-a97b-6aaffe34eb9a#gs.fr32x1">
+<a href="https://www.credential.net/71605802-2007-4c22-acf0-c9c8203e4b9c">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCDE.png" alt="Google Cloud Certified: Professional Cloud DevOps Engineer" />    
+</a>
+<a href="https://www.credential.net/ef07e7a8-a7fc-4943-b954-1122e3004d64">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-ACE.png" alt="Google Cloud Certified: Associate Cloud Engineer" />    
 </a>
--->
 
 <!--
 > But I'm not a one-trick pony
@@ -82,7 +80,7 @@
 
 ### What I'm really passionate about is ML/AI
 
-<a href="https://www.credential.net/a6af20ce-8ef3-46b3-b38a-62ac85a2fd9a">
+<a href="https://www.credential.net/2c5d645e-dc28-44bd-b13a-f8592beb1bb1">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PDE.png" alt="Google Cloud Certified: Professional Data Engineer" />    
 </a>
 <a href="https://www.credly.com/badges/192261bc-6dad-4529-ab50-63ea0ae2155c">
