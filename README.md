@@ -95,9 +95,9 @@
 
 ## Me on the web 
 - [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-glen-yu) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
-- [Articles](./articles.md) | [Presentations/Talks](./presentations.md)
+- [Written Content](./writings.md) | [Presentations/Talks](./presentations.md)
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
-- [FindingWaldo.app](https://findingwaldo.app) - my "Where's Waldo?" object detector
+- [Finding Waldo app](https://findwaldo.thirdpig.io) - my "Where's Waldo?" object detector
 
 <!--
 **Neutrollized/Neutrollized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

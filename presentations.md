@@ -1,5 +1,9 @@
 # Presentations/Talks
 
+### 2024
+- Google Cloud Next '24: Adding Another Layer to your Organization's Defense in Depth Strategy (IHLT-212)
+- Google Cloud Next '24: Certified Lounge Session: Leveraging the Always Free Tier to Accelerate Your Learning Journey (passive programming; session not published)
+
 ### 2023
 - [Google Cloud Next '23 - Developer Keynote](https://www.youtube.com/watch?v=268jdNwH6AM&t=511s&ab_channel=GoogleCloud)
 - [HashiConf HUG @ HQ](https://meetup.com/san-francisco-hashicorp-user-group/events/295805336)
