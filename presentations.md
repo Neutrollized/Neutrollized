@@ -2,7 +2,8 @@
 
 ### 2024
 - Google Cloud Next '24: Adding Another Layer to your Organization's Defense in Depth Strategy (IHLT-212)
-- Google Cloud Next '24: Certified Lounge Session: Leveraging the Always Free Tier to Accelerate Your Learning Journey (passive programming; session not published)
+- Google Cloud Next '24: Champion & Certified Lounge Session: Certification Panel (passive programming; session not published)
+- Google Cloud Next '24: Champion & Certified Lounge Session: Leveraging the Always Free Tier to Accelerate Your Learning Journey (passive programming; session not published)
 
 ### 2023
 - [Google Cloud Next '23 - Developer Keynote](https://www.youtube.com/watch?v=268jdNwH6AM&t=511s&ab_channel=GoogleCloud)
