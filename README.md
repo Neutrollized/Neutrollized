@@ -40,6 +40,9 @@
 <a href="https://www.amazon.ca/dp/B0C44SD7HL">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/cover_TheBestKeptSecretsOfHashiCorpVault.jpg" alt="The Best Kept Secrets of HashiCorp Vault" /> 
 </a>
+<a href="https://www.credly.com/badges/e49a3c40-fb30-44e7-bd88-623cb11c2e82/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2024.png" alt="HashiCorp Ambassador 2024" /> 
+</a>
 <a href="https://www.credly.com/badges/7dedcf1a-94b4-4300-b042-d2c5200fa811/public_url">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-Ambassador-2023.png" alt="HashiCorp Ambassador 2023" /> 
 </a>
