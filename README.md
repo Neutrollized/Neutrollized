@@ -54,17 +54,19 @@
 </a>
 <br>
 <a href="https://www.credly.com/badges/84d23ead-19fb-4ef1-94a4-0274680ee5d9/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformPro_Alpha.png" alt="Alpha Tester: Terraform Authoring and Operations Professional" /> 
-</a>
-<a href="https://www.credly.com/badges/0f177d02-1558-42cf-94b3-36b46d36451f/public_url">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultPro.png" alt="HashiCorp Certified: Vault Operations Professional" /> 
-</a>
-<a href="https://www.youracclaim.com/badges/07988f40-3669-4c54-bd67-efdc6a4e4915">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA_v2.png" alt="HashiCorp Certified: Vault Associate" /> 
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformPro_Alpha.png" alt="Alpha Tester: Terraform Authoring and Operations Professional" />
 </a>
 <a href="https://www.credly.com/badges/d4159e0d-3f4f-4c88-96d9-8ea9a1466ede/public_url">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-TerraformA003.png" alt="HashiCorp Certified: Terraform Associate" /> 
 </a>
+<a href="https://www.credly.com/badges/0f177d02-1558-42cf-94b3-36b46d36451f/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultPro.png" alt="HashiCorp Certified: Vault Operations Professional" /> 
+</a>
+<!--
+<a href="https://www.youracclaim.com/badges/07988f40-3669-4c54-bd67-efdc6a4e4915">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-VaultA_v2.png" alt="HashiCorp Certified: Vault Associate" /> 
+</a>
+-->
 <a href="https://www.youracclaim.com/badges/f575ff1c-550c-4157-b22e-83d28599e75e">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_HashiCorp-ConsulA_v2.png" alt="HashiCorp Certified: Consul Associate" /> 
 </a>
