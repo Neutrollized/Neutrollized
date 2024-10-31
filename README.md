@@ -35,7 +35,7 @@
 </a>
 -->
 
-### I like Infrastructure as Code and HashiCorp suite of tools
+### I like Infrastructure as Code & secrets management tools
 
 <a href="https://www.amazon.ca/dp/B0C44SD7HL">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/cover_TheBestKeptSecretsOfHashiCorpVault.jpg" alt="The Best Kept Secrets of HashiCorp Vault" /> 
