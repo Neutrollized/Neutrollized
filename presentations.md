@@ -6,7 +6,7 @@
 - Google Cloud Next '24: Champion & Certified Lounge Session: Leveraging the Always Free Tier to Accelerate Your Learning Journey (passive programming; session not published)
 - [HashiCorp Thought Leadership series - Infrasturcture automation: How far we've come](https://www.youtube.com/watch?v=3rHsqddcC0Y)
 - [HashiConf 2024: Hallway Track - Using Tetragon to Secure Your Nomad Workloads](https://storage.googleapis.com/public-file-server/images/HashiConf2024_hallwaytrack_v2.png)
-- KubeCon NA '24: Lightning Talk - GCP Cloud Logging and Alerting on Tetragon Events (Google Cloud booth)
+- [KubeCon NA '24: Lightning Talk - GCP Cloud Logging and Alerting on Tetragon Events (Google Cloud booth)](https://storage.googleapis.com/public-file-server/images/KubeConNA24_LTpromo.png)
 
 ### 2023
 - [Google Cloud Next '23 - Developer Keynote](https://www.youtube.com/watch?v=268jdNwH6AM&t=511s&ab_channel=GoogleCloud)
