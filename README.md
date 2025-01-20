@@ -103,6 +103,7 @@
 - [Written Content](./writings.md) | [Presentations/Talks](./presentations.md)
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 - [Finding Waldo app](https://findwaldo.thirdpig.io) - my "Where's Waldo?" object detector
+- [Free URL QR Code generator](https://qrcoder.thirdpig.io)
 
 <!--
 **Neutrollized/Neutrollized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
