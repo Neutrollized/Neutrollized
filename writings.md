@@ -2,6 +2,9 @@
 
 - [Medium](https://medium.com/@glen.yu)
 
+### 2025
+- [Shift-Down Security paper](https://github.com/kubernetes/sig-security/blob/main/sig-security-docs/papers/shift-down/shift-down-security.md) for CNCF Kubernetes Policy WG (accepted and merged in Feb '25)
+
 ### 2024
 - [eCHO News - Episode 58](https://www.linkedin.com/pulse/echo-news-58-bill-mulligan-yvwxf/) - my Medium blog post about running [Tetragon on Nomad](https://medium.com/@glen.yu/can-you-run-tetragon-on-hashicorp-nomad-part-1-8d51b2d23ee3) was featured on the title of this issue
 

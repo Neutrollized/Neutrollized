@@ -1,5 +1,8 @@
 # Presentations/Talks
 
+### 2025
+- Google Cloud Next '25: eBPF gives GKE wings (DEVLT-206) - TBA/Upcoming
+
 ### 2024
 - [Google Cloud Next '24: Adding Another Layer to your Organization's Defense in Depth Strategy (IHLT-212)](https://storage.googleapis.com/public-file-server/images/GoogleNext24_IHLT212.png)
 - Google Cloud Next '24: Champion & Certified Lounge Session: Certification Panel (passive programming; session not published)
@@ -10,7 +13,7 @@
 - [AI Camp Toronto Meetup: Grounding Your Results Using Vector Embeddings and RAG](https://www.aicamp.ai/event/eventdetails/W2024112014)
 
 ### 2023
-- [Google Cloud Next '23 - Developer Keynote](https://www.youtube.com/watch?v=268jdNwH6AM&t=511s&ab_channel=GoogleCloud)
+- [Google Cloud Next '23 - Developer Keynote video](https://www.youtube.com/watch?v=268jdNwH6AM&t=511s&ab_channel=GoogleCloud)
 - [HashiConf HUG @ HQ](https://meetup.com/san-francisco-hashicorp-user-group/events/295805336)
 - [HashiConf Wrap up October Livestream](https://www.youtube.com/watch?v=IP2q2TZq0Ig&t=8s&ab_channel=NedintheCloud)
 - [Windsor-Essex GDG DevFest 2023](https://gdg.community.dev/events/details/google-gdg-windsor-presents-windsor-essex-gdg-devfest-2023/)
