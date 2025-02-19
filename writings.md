@@ -7,6 +7,7 @@
 
 ### 2024
 - [eCHO News - Episode 58](https://www.linkedin.com/pulse/echo-news-58-bill-mulligan-yvwxf/) - my Medium blog post about running [Tetragon on Nomad](https://medium.com/@glen.yu/can-you-run-tetragon-on-hashicorp-nomad-part-1-8d51b2d23ee3) was featured on the title of this issue
+- [Machine Learning Production Systems](https://www.oreilly.com/library/view/machine-learning-production/9781098156008/) - technical reviewer
 
 ### 2023
 - [The Best Kept Secrets of HashiCorp Vault](https://www.amazon.ca/dp/B0C44SD7HL) - contributed to a couple of chapters in this collection of tips & tricks

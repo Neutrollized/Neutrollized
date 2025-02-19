@@ -1,7 +1,7 @@
 # Presentations/Talks
 
 ### 2025
-- Google Cloud Next '25: eBPF gives GKE wings (DEVLT-206) - TBA/Upcoming
+- [Google Cloud Next '25: eBPF gives GKE wings (DEVLT-206)](https://storage.googleapis.com/public-file-server/images/GoogleNext25_DEVLT206.png)
 
 ### 2024
 - [Google Cloud Next '24: Adding Another Layer to your Organization's Defense in Depth Strategy (IHLT-212)](https://storage.googleapis.com/public-file-server/images/GoogleNext24_IHLT212.png)
