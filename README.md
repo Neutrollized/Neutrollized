@@ -1,4 +1,4 @@
-# Yo! I'm Glen and I do :cloud: engineery things
+# Yo! I'm Glen and I do :robot::brain: and :cloud: engineery things
 
 ### I'm a big fan of Google Cloud
 
