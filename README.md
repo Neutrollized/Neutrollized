@@ -102,6 +102,7 @@
 - [Google Developer Expert](https://developers.google.com/community/experts/directory?text=glen%20yu) | [Flickr](https://www.flickr.com/photos/2hit6) | [IMDb](https://www.imdb.com/name/nm3489135/) - movie credits from my time in the animation/VFX industry!
 - [Written Content](./writings.md) | [Presentations/Talks](./presentations.md)
 - [Announcing the Kubernetes "Shift Down" Security Paper](https://www.cncf.io/blog/2025/02/25/announcing-the-kubernetes-shift-down-security-paper/)
+- [Kubernetes Podcast from Google: Episode 252 - Platform Engineering, GitOps and AI with Pierre-Gilles Mialon and Glen Yu](https://kubernetespodcast.com/episode/256-pe-gitops-ai/)
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 - [Finding Waldo app](https://findwaldo.thirdpig.io) - my "Where's Waldo?" object detector
 - [Free URL QR Code generator](https://qrcoder.thirdpig.io)
