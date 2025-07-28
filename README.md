@@ -82,6 +82,9 @@
 <a href="https://www.credly.com/badges/ee1c3dd5-7702-4b1f-8fd9-9b11e06441e3">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Istio-Foundation.png" alt="Foundation for Istio" /> 
 </a>
+<a href="https://www.credly.com/earner/earned/badge/707fea6e-39f1-47e8-81c8-f498d703c93b">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Isovalent-tetragon.png" alt="Tetragon Getting Started" /> 
+</a>
 
 ### What I'm really passionate about is AI/ML
 
