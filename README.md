@@ -88,6 +88,9 @@
 
 ### What I'm really passionate about is AI/ML
 
+<a href="https://www.credly.com/badges/7b12f621-21bb-4b92-adb2-fb593fd1a298/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Build-w-Vertex-Technical-Expert.png" alt="Build with AI: Technical Expert" />    
+</a>
 <a href="https://google.accredible.com/8f3afda4-06b3-421e-8b1e-fe864f025c14">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PMLE.png" alt="Google Cloud Certified: Professional Machine Learning Engineer" />    
 </a>
