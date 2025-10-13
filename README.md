@@ -2,6 +2,9 @@
 
 ### I'm a big fan of Google Cloud
 
+<a href="https://www.cloudskillsboost.google/public_profiles/634c9c15-da1b-4ee3-8f1f-55d06a6b3b13/badges/19135236">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_L300_GDC_air-gapped.png" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
 </a>
@@ -20,9 +23,11 @@
 <a href="https://www.credential.net/71605802-2007-4c22-acf0-c9c8203e4b9c">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCDE.png" alt="Google Cloud Certified: Professional Cloud DevOps Engineer" />    
 </a>
+<!--
 <a href="https://www.credential.net/ef07e7a8-a7fc-4943-b954-1122e3004d64">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-ACE.png" alt="Google Cloud Certified: Associate Cloud Engineer" />    
 </a>
+-->
 
 <!--
 > But I'm not a one-trick pony
