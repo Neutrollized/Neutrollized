@@ -3,7 +3,7 @@
 ### I'm a big fan of Google Cloud
 
 <a href="https://www.cloudskillsboost.google/public_profiles/634c9c15-da1b-4ee3-8f1f-55d06a6b3b13/badges/19135236">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_L300_GDC_air-gapped.png" alt="L300 Google Distributed Cloud air-gapped" />    
+<img class="icon-image" height="90" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_L300_GDC_air-gapped.png" alt="L300 Google Distributed Cloud air-gapped" />    
 </a>
 <a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
