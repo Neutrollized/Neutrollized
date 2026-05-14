@@ -1,5 +1,9 @@
 # Presentations/Talks
 
+### 2026
+- KubeCon EU '26: Lightning Talk - Scaling Python AI: Distributed Training with KubeRay on GKE (Google Cloud booth)
+- KCD Toronto: Panelist - Cloud Native and AI Intersection
+
 ### 2025
 - [Google Cloud Next '25: eBPF gives GKE wings (DEVLT-206)](https://storage.googleapis.com/public-file-server/images/GoogleNext25_DEVLT206.png)
 - [GDG Waterloo: Build with AI](https://gdg.community.dev/events/details/google-gdg-waterloo-presents-build-with-google-ai-from-tools-to-agents-buy-tickets-link-below-1/cohost-gdg-waterloo)
@@ -10,7 +14,7 @@
 - [Google Cloud Next '24: Adding Another Layer to your Organization's Defense in Depth Strategy (IHLT-212)](https://storage.googleapis.com/public-file-server/images/GoogleNext24_IHLT212.png)
 - Google Cloud Next '24: Champion & Certified Lounge Session: Certification Panel (passive programming; session not published)
 - Google Cloud Next '24: Champion & Certified Lounge Session: Leveraging the Always Free Tier to Accelerate Your Learning Journey (passive programming; session not published)
-- [HashiCorp Thought Leadership series - Infrasturcture automation: How far we've come](https://www.youtube.com/watch?v=3rHsqddcC0Y)
+- [HashiCorp Thought Leadership series - Infrastructure automation: How far we've come](https://www.youtube.com/watch?v=3rHsqddcC0Y)
 - [HashiConf 2024: Hallway Track - Using Tetragon to Secure Your Nomad Workloads](https://storage.googleapis.com/public-file-server/images/HashiConf2024_hallwaytrack_v2.png)
 - [KubeCon NA '24: Lightning Talk - GCP Cloud Logging and Alerting on Tetragon Events (Google Cloud booth)](https://storage.googleapis.com/public-file-server/images/KubeConNA24_LTpromo.png)
 - [AI Camp Toronto Meetup: Grounding Your Results Using Vector Embeddings and RAG](https://www.aicamp.ai/event/eventdetails/W2024112014)

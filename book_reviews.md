@@ -5,12 +5,12 @@ I enjoy reading computing/technical books and have been a Manuscript Reviewer/Te
 ### Upcoming / TBD
 
 ### 2026
-- [Cilium: Up & Running](https://www.oreilly.com/library/view/cilium-up-and/9798341622982/) - Technical Reviewer
-- [Kubernetes in Action, 2nd Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
+- [Cilium: Up & Running](https://www.oreilly.com/library/view/cilium-up-and/9798341622982/) (Mar 2026) - Technical Reviewer
+- [Kubernetes in Action, 2nd Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (Mar 2026)
 
 ### 2025
 - [Generative AI Design Patterns](https://www.oreilly.com/library/view/generative-ai-design/9798341622654/) (Oct 2025) - Technical Reviewer
-- [Acing the Certified Kubernetes Administrator Exam, 2nd Edition](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam-second-edition) (Oct 2025)
+- [Acing the Certified Kubernetes Administrator Exam, 2nd Edition](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam-second-edition) (Nov 2025) - Technical Reviewer
 
 ### 2024
 - [Machine Learning Production Systems](https://www.oreilly.com/library/view/machine-learning-production/9781098156008/) (Oct 2024) - Technical Reviewer
