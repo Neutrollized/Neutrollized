@@ -118,8 +118,10 @@
 - [Workload Identity for GKE made easy with open source tools](https://cloud.google.com/blog/products/containers-kubernetes/open-source-tools-can-help-gke-work-with-cloud-apis)
 - [Announcing the Kubernetes "Shift Down" Security Paper](https://www.cncf.io/blog/2025/02/25/announcing-the-kubernetes-shift-down-security-paper/)
 - [Kubernetes Podcast from Google: Episode 252 - Platform Engineering, GitOps and AI with Pierre-Gilles Mialon and Glen Yu](https://kubernetespodcast.com/episode/256-pe-gitops-ai/)
-- [Finding Waldo app](https://findwaldo.thirdpig.io) - my "Where's Waldo?" object detector
 - [Free URL QR Code generator](https://qrcoder.thirdpig.io)
+<!--
+- [Finding Waldo app](https://findwaldo.thirdpig.io) - my "Where's Waldo?" object detector
+-->
 <!--
 - [Rundeck GCP Nodes Plugin](https://resources.rundeck.com/plugins/rundeck-gcp-nodes-plugin/)
 -->
