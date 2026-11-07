@@ -105,6 +105,9 @@
 <a href="https://www.credential.net/2c5d645e-dc28-44bd-b13a-f8592beb1bb1">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PDE.png" alt="Google Cloud Certified: Professional Data Engineer" />    
 </a>
+<a href="https://www.credly.com/badges/0bd4a362-bec7-40a5-bb88-71bc6da482a2/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PAA.png" alt="Google Cloud Certified: Professional Agentic Architect" />    
+</a>
 <a href="https://www.credly.com/badges/192261bc-6dad-4529-ab50-63ea0ae2155c">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Azure-AI-Fundamentals.png" alt="Microsoft Azure AI Fundamentals" />    
 </a>
