@@ -90,6 +90,9 @@
 <a href="https://www.credly.com/earner/earned/badge/707fea6e-39f1-47e8-81c8-f498d703c93b">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Isovalent-tetragon.png" alt="Tetragon Getting Started" /> 
 </a>
+<a href="https://www.credly.com/badges/63fdf5b0-82a1-4e19-8ef7-3f031f13780c/public_url">
+<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_Isovalent-cilium-ai-ml-security.png" alt="Cilium AI/ML Security" /> 
+</a>
 
 ### What I'm really passionate about is AI/ML
 
